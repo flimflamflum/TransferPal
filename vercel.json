@@ -1,0 +1,13 @@
+{
+  "crons": [
+    {
+      "path": "/api/cleanup",
+      "schedule": "0 0 * * *"
+    },
+    {
+      "path": "/api/cron/check-premium-expiry",
+      "schedule": "0 0 * * *"
+    }
+  ]
+}
+
