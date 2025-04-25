@@ -1,4 +1,4 @@
-# Self-Destructing Files
+# TransferPal
 
 A secure file sharing service that allows users to share files via self-destructing links. Files are automatically deleted after reaching their download limit or time expiration.
 
